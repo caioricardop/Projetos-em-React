@@ -10,7 +10,7 @@ React é uma biblioteca JavaScript de código aberto que é utilizada para const
 
 Aqui estão os projetos que eu estou desenvolvendo utilizando React:
 
-- Buscador de CEP: Primeiro projeto que fiz usando uma API que busca CEP e mostra a localização do CEP.
+- [uscador de CEP](https://github.com/caioricardop/React/tree/main/Buscador%20de%20CEP)rimeiro projeto que fiz usando uma API que busca CEP e mostra a localização do CEP.
 - Nome do Projeto 2: descrição breve do projeto.
 - Nome do Projeto 3: descrição breve do projeto.
 
